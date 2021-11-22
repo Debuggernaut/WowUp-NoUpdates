@@ -26,7 +26,7 @@ describe("ExternalUrlConfirmationDialogComponent", () => {
         {
           provide: MAT_DIALOG_DATA,
           useValue: {
-            url: "https://wowup.io",
+            url: "https://github.com/Debuggernaut/WowUp-NoUpdates",
           },
         },
         {

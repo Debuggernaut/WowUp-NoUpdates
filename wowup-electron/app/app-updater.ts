@@ -16,6 +16,7 @@ export class AppUpdater {
   public dispose(): void {}
 
   public async checkForUpdates(): Promise<void> {
+      return;
     try {
       const result = await autoUpdater.checkForUpdates();
       log.info(`checkForUpdates`, result);

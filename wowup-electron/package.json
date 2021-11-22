@@ -1,12 +1,12 @@
 {
   "name": "wowup",
   "productName": "WowUp",
-  "version": "2.5.2",
+  "version": "133702.5.2",
   "description": "World of Warcraft addon updater",
-  "homepage": "https://wowup.io",
+  "homepage": "https://github.com/Debuggernaut/WowUp-NoUpdates",
   "author": {
-    "name": "Jliddev",
-    "email": "jliddev@gmail.com"
+    "name": "Debuggernaut",
+    "email": "debuggernaut@github"
   },
   "gypfile": true,
   "keywords": [
@@ -17,7 +17,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/WowUp/WowUp.git"
+    "url": "https://github.com/Debuggernaut/WowUp-NoUpdates"
   },
   "scripts": {
     "postinstall": "electron-builder install-app-deps",

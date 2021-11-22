@@ -29,12 +29,14 @@ export class AnalyticsService {
   }
 
   public get telemetryEnabled(): boolean {
+    /*
     const preference = this._preferenceStorageService.findByKey(TELEMETRY_ENABLED_KEY);
     const value = preference === true.toString();
+    */
 
-    this.configureAppInsights(value);
+    this.configureAppInsights(false);
 
-    return value;
+    return false;
   }
 
   public set telemetryEnabled(value: boolean) {

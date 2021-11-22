@@ -1,6 +1,6 @@
 {
   "productName": "WowUp",
-  "appId": "io.wowup.jliddev",
+  "appId": "WowUp-NoUpdates.Debuggernaut.github.com",
   "directories": {
     "output": "release/"
   },

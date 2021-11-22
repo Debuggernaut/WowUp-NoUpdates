@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://wowup.io" align="center"><img src="https://wowup.io/assets/icons/apple-touch-icon.png"></a>
+<a href="https://wowup.io" align="center">Main WoWup repository</a>
 </p>
 
 # Introduction

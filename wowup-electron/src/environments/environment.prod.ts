@@ -1,15 +1,15 @@
 export const AppConfig = {
   production: true,
   environment: "PROD",
-  wowUpWebsiteUrl: "https://wowup.io",
-  wowUpApiUrl: "https://api.wowup.io",
-  wowUpHubUrl: "https://hub.wowup.io",
-  googleAnalyticsId: "UA-92563227-4",
-  wowupRepositoryUrl: "https://github.com/WowUp/WowUp",
+  wowUpWebsiteUrl: "https://github.com/Debuggernaut/WowUp-NoUpdates",
+  wowUpApiUrl: "https://github.com/Debuggernaut/WowUp-NoUpdates",
+  wowUpHubUrl: "https://github.com/Debuggernaut/WowUp-NoUpdates",
+  googleAnalyticsId: "",
+  wowupRepositoryUrl: "https://github.com/Debuggernaut/WowUp-NoUpdates",
   warcraftTavernNewsFeedUrl:
-    "https://www.warcrafttavern.com/?call_custom_simple_rss=1&csrp_post_type=wow-classic-news,tbc-classic-news,retail-news&csrp_thumbnail_size=medium",
+    "https://www.warcrafttavern.com/?call_custom_simple_rss=1&csrp_post_type=wow-classic-news,tbc-classic-news,retail-news&csrp_thumbnail_size=large",
   azure: {
-    applicationInsightsKey: "4a53e8d9-796c-4f80-b1a6-9a058374dd6d",
+    applicationInsightsKey: "",
   },
   autoUpdateIntervalMs: 3600000, // 1 hour
   appUpdateIntervalMs: 3600000, // 1 hour
