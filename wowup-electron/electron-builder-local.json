@@ -47,7 +47,7 @@
     "icon": "electron-build/icon.ico",
     "target": ["nsis"],
     "forceCodeSigning": false,
-    "publisherName": "WowUp LLC"
+    "publisherName": "Debuggernaut"
   },
   "nsis": {
     "deleteAppDataOnUninstall": true
